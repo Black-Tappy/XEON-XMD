@@ -5,11 +5,11 @@ require("dotenv").config();
 const config = {
   // 👑 Owner & Permissions
   OWNER_NAME: process.env.OWNER_NAME || "Black-Tappy",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254759000340",
-  SUDO_NUMBER: process.env.SUDO_NUMBER || "254759000340",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254794344429",
+  SUDO_NUMBER: process.env.SUDO_NUMBER || "254794344429",
   
   // 🧠 Core Bot Identity & Information
-  SESSION_ID: process.env.SESSION_ID || "XTREME~z0wdHks8",
+  SESSION_ID: process.env.SESSION_ID || "XEON-XTECH~1MB01YCZ#Ac9X2hepEJuE-hZzhL7HFJ1r6QSy7ti-4NiXGMJ6X9Q",
   PREFIX: process.env.PREFIX || '.',
   BOT_NAME: process.env.BOT_NAME || "Xeon-Xtech",
   BOT: process.env.BOT || "hello 👋", 
